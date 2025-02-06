@@ -1,2 +1,0 @@
-a = 0xAF
-print(a)
